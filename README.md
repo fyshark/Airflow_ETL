@@ -56,7 +56,7 @@ python3 -m venv airflow_venv
 
 Activate your virtual environment (Unix/macOS):
 ```
-source airflow-venv/bin/activate
+source airflow_venv/bin/activate
 ```
 
 For Windows system, use the below command instead to activate:
